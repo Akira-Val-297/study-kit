@@ -23,15 +23,15 @@ kit.answer(1, "What does slope measure?");
 From GitHub:
 
 ```bash
-npm install github:24F3004430/study-kit
+npm install github:Akira-Val-297/study-kit
 # or
-bun add github:24F3004430/study-kit
+bun add github:Akira-Val-297/study-kit
 ```
 
 From a clone or a local folder:
 
 ```bash
-git clone https://github.com/24F3004430/study-kit.git
+git clone https://github.com/Akira-Val-297/study-kit.git
 npm install ./study-kit
 ```
 
@@ -239,7 +239,7 @@ The test suite uses a throwaway two-course subject rather than any real curricul
 
 ## Contributing
 
-Issues and PRs are welcome at <https://github.com/24F3004430/study-kit>. Please keep the engine content-free: if a change needs to know anything about a particular subject, it belongs in the bundle, not in `src/index.ts`.
+Issues and PRs are welcome at <https://github.com/Akira-Val-297/study-kit>. Please keep the engine content-free: if a change needs to know anything about a particular subject, it belongs in the bundle, not in `src/index.ts`.
 
 ## Licence
 

@@ -31,12 +31,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/24F3004430/study-kit.git"
+    "url": "git+https://github.com/Akira-Val-297/study-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/24F3004430/study-kit/issues"
+    "url": "https://github.com/Akira-Val-297/study-kit/issues"
   },
-  "homepage": "https://github.com/24F3004430/study-kit#readme",
+  "homepage": "https://github.com/Akira-Val-297/study-kit#readme",
   "engines": {
     "node": ">=18"
   },
